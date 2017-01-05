@@ -1,0 +1,58 @@
+1478611162016	geckodriver	INFO	Listening on 127.0.0.1:59706
+1478611164030	mozprofile::profile	INFO	Using profile path C:\Users\lenovo\AppData\Local\Temp\rust_mozprofile.dASIZ1QR94Fb
+1478611164039	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1478611164067	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59714
+1478611164747	Marionette	INFO	Listening on port 59714
+[Child 10796] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-beta-w64-0000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 343
+[Child 10796] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-beta-w64-0000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 343
+1478611165864	Marionette	INFO	startBrowser d99350a0-6621-4fee-9e7a-62d130b540fa
+1478611165874	Marionette	INFO	sendAsync d99350a0-6621-4fee-9e7a-62d130b540fa
+1478611166071	Marionette	INFO	sendAsync d99350a0-6621-4fee-9e7a-62d130b540fa
+1478611166478	Marionette	INFO	sendAsync d99350a0-6621-4fee-9e7a-62d130b540fa
+Vector smash protection is enabled.
+1478611169075	Marionette	INFO	sendAsync d99350a0-6621-4fee-9e7a-62d130b540fa
+1478611169083	Marionette	INFO	sendAsync d99350a0-6621-4fee-9e7a-62d130b540fa
+1478611169221	Marionette	INFO	sendAsync d99350a0-6621-4fee-9e7a-62d130b540fa
+1478611169240	Marionette	INFO	sendAsync d99350a0-6621-4fee-9e7a-62d130b540fa
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=selenium&json=1&p=3&sid=1443_19035_21092_21455_21394_21377_21193_21339&req=2&csor=8&pwd=seleniu&cb=jQuery110208318999859228895_1478611168413&_=1478611168422, line 1: TypeError: jQuery110208318999859228895_1478611168413 is not a function
+[NPAPI 8276] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-beta-w64-0000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 343
+1478611182080	geckodriver	INFO	Listening on 127.0.0.1:59787
+1478611184106	mozprofile::profile	INFO	Using profile path C:\Users\lenovo\AppData\Local\Temp\rust_mozprofile.n6cx2LaSWcki
+1478611184117	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1478611184142	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59793
+1478611184811	Marionette	INFO	Listening on port 59793
+[Child 11424] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-beta-w64-0000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 343
+[Child 11424] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-beta-w64-0000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 343
+1478611185899	Marionette	INFO	startBrowser d2711503-e939-471b-970a-5b8d3512287c
+1478611185909	Marionette	INFO	sendAsync d2711503-e939-471b-970a-5b8d3512287c
+1478611186102	Marionette	INFO	sendAsync d2711503-e939-471b-970a-5b8d3512287c
+1478611186496	Marionette	INFO	sendAsync d2711503-e939-471b-970a-5b8d3512287c
+Vector smash protection is enabled.
+1478611188569	Marionette	INFO	sendAsync d2711503-e939-471b-970a-5b8d3512287c
+1478611188580	Marionette	INFO	sendAsync d2711503-e939-471b-970a-5b8d3512287c
+1478611188725	Marionette	INFO	sendAsync d2711503-e939-471b-970a-5b8d3512287c
+1478611188746	Marionette	INFO	sendAsync d2711503-e939-471b-970a-5b8d3512287c
+[Child 13668] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-beta-w64-0000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 343
+[NPAPI 10852] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-beta-w64-0000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 343
+1478611202284	geckodriver	INFO	Listening on 127.0.0.1:59859
+1478611204307	mozprofile::profile	INFO	Using profile path C:\Users\lenovo\AppData\Local\Temp\rust_mozprofile.XaApIUrP9k9B
+1478611204317	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1478611204347	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59865
+1478611205038	Marionette	INFO	Listening on port 59865
+1478611206077	Marionette	INFO	startBrowser 734f8647-a0ca-49de-b24f-276b25ee6346
+1478611206087	Marionette	INFO	sendAsync 734f8647-a0ca-49de-b24f-276b25ee6346
+1478611206284	Marionette	INFO	sendAsync 734f8647-a0ca-49de-b24f-276b25ee6346
+Vector smash protection is enabled.
+1478611208755	Marionette	INFO	sendAsync 734f8647-a0ca-49de-b24f-276b25ee6346
+1478611208766	Marionette	INFO	sendAsync 734f8647-a0ca-49de-b24f-276b25ee6346
+1478611208907	Marionette	INFO	sendAsync 734f8647-a0ca-49de-b24f-276b25ee6346
+1478611208925	Marionette	INFO	sendAsync 734f8647-a0ca-49de-b24f-276b25ee6346
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=s&json=1&p=3&sid=1437_13549_21090_18559_21455_21395_21378_21189_21398&req=2&csor=1&cb=jQuery110203061497697616915_1478611208123&_=1478611208125, line 1: TypeError: jQuery110203061497697616915_1478611208123 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=se&json=1&p=3&sid=1437_13549_21090_18559_21455_21395_21378_21189_21398&req=2&csor=2&pwd=s&cb=jQuery110203061497697616915_1478611208123&_=1478611208126, line 1: TypeError: jQuery110203061497697616915_1478611208123 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=seleni&json=1&p=3&sid=1437_13549_21090_18559_21455_21395_21378_21189_21398&req=2&csor=6&pwd=selen&cb=jQuery110203061497697616915_1478611208123&_=1478611208130, line 1: TypeError: jQuery110203061497697616915_1478611208123 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=seleniu&json=1&p=3&sid=1437_13549_21090_18559_21455_21395_21378_21189_21398&req=2&csor=7&pwd=seleni&cb=jQuery110203061497697616915_1478611208123&_=1478611208131, line 1: TypeError: jQuery110203061497697616915_1478611208123 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=sel&json=1&p=3&sid=1437_13549_21090_18559_21455_21395_21378_21189_21398&req=2&csor=3&pwd=se&cb=jQuery110203061497697616915_1478611208123&_=1478611208127, line 1: TypeError: jQuery110203061497697616915_1478611208123 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=sele&json=1&p=3&sid=1437_13549_21090_18559_21455_21395_21378_21189_21398&req=2&csor=4&pwd=sel&cb=jQuery110203061497697616915_1478611208123&_=1478611208128, line 1: TypeError: jQuery110203061497697616915_1478611208123 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=selen&json=1&p=3&sid=1437_13549_21090_18559_21455_21395_21378_21189_21398&req=2&csor=5&pwd=sele&cb=jQuery110203061497697616915_1478611208123&_=1478611208129, line 1: TypeError: jQuery110203061497697616915_1478611208123 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=selenium&json=1&p=3&sid=1437_13549_21090_18559_21455_21395_21378_21189_21398&req=2&csor=8&pwd=seleniu&cb=jQuery110203061497697616915_1478611208123&_=1478611208132, line 1: TypeError: jQuery110203061497697616915_1478611208123 is not a function
+[NPAPI 11148] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-beta-w64-0000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2046
